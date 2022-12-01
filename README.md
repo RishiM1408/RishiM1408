@@ -157,8 +157,6 @@ width="36"
 
 ---
 
-<br>
-<br>
 
 ## [<img align="center" title="Social Media" alt="Social Media" width="32px" src="https://cdn-icons-png.flaticon.com/512/2065/2065157.png" />](#)&nbsp;Connect with me:
 
