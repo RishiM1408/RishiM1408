@@ -170,6 +170,6 @@ width="36"
 &nbsp;&nbsp;&nbsp;
 
 
-[linkedin]: https://www.linkedin.com/in/rishi1408/
+[linkedin]: https://www.linkedin.com/in/rishim1408/
 [instagram]: https://www.instagram.com/flowofoptics/
 [instagram2]: https://www.instagram.com/definitelymayberishi/
