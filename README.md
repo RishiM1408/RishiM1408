@@ -65,6 +65,30 @@ alt="AWS"
 title="AWS"
 height="36"
 width="48"
+/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg"
+alt="Docker"
+title="Docker"
+height="36"
+width="48"
+/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/arduino.svg"
+alt="Arduino"
+title="Arduino"
+height="36"
+width="48"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"
+alt="Raspberry-pi"
+title="Raspberry-pi"
+height="36"
+width="36"
+/>&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg"
+alt="Jenkins"
+title="Jenkins"
+height="36"
+width="48"
 />
 
 <br>
@@ -112,8 +136,24 @@ title="Node.js"
 height="36"
 width="36"
 />&nbsp;&nbsp;&nbsp;&nbsp;
-
-
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
+alt="HTML5"
+title="HTML5"
+height="36"
+width="36"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"
+alt="CSS"
+title="CSS"
+height="36"
+width="36"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"
+alt="MySQL"
+title="MySQL"
+height="36"
+width="36"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
@@ -154,6 +194,8 @@ title="Adobe AfterEffects CC"
 height="36"
 width="36"
 />&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
 
 ---
 
