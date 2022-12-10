@@ -99,13 +99,13 @@ alt="Java"
 title="Java"
 height="36"
 width="30"
-/> &nbsp;&nbsp;
+/> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
 alt="MongoDB"
 title="MongoDB"
 height="40"
 width="28"
-/>&nbsp;&nbsp;&nbsp;
+/>&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"
 alt="Spring"
 title="Spring"
@@ -147,7 +147,7 @@ alt="CSS"
 title="CSS"
 height="36"
 width="36"
-/>&nbsp;&nbsp;&nbsp;&nbsp;
+/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"
 alt="MySQL"
 title="MySQL"
