@@ -98,26 +98,26 @@ width="48"
 alt="Java"
 title="Java"
 height="36"
-width="36"
+width="30"
 /> &nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
 alt="MongoDB"
 title="MongoDB"
 height="40"
-width=""
+width="28"
 />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"
 alt="Spring"
 title="Spring"
 height="36"
 width="32"
-/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg"
 alt="C++"
 title="C++"
 height="36"
-width="36"
-/>&nbsp;&nbsp;&nbsp;
+width="34"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg"
 alt="Python"
 title="Python"
@@ -134,14 +134,14 @@ width="36"
 alt="Node.js"
 title="Node.js"
 height="36"
-width="36"
-/>&nbsp;&nbsp;&nbsp;&nbsp;
+width="32"
+/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
 alt="HTML5"
 title="HTML5"
 height="36"
 width="36"
-/>&nbsp;&nbsp;&nbsp;&nbsp;
+/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"
 alt="CSS"
 title="CSS"
