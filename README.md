@@ -7,14 +7,14 @@ RishiM1408/RishiM1408 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-- <img align="center" height="25px" src="https://pics.freeicons.io/uploads/icons/png/14760371461555931396-512.png"/>&nbsp; Software Developer<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />Learning new tech and upgrading myself.
+- <img align="center" height="25px" src="https://pics.freeicons.io/uploads/icons/png/14760371461555931396-512.png"/>&nbsp; Software Developer<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />Learning new tech and upgrading myself
 
 - <img align="center" height="25px" src="https://user-images.githubusercontent.com/44945139/108477995-f59aa100-72b9-11eb-8cbc-a0d4f92c9449.png"/> &nbsp; Bachelor of Technology
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
 [<img align="center" title="IoT" alt="IoT" width="26px" src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" />](#)&nbsp; Information Technology
 - [<img align="center" height="25px" src="https://pics.freeicons.io/uploads/icons/png/6684101501555931400-512.png"/>](#) &nbsp; Photo/Cinematographer
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
-[<img align="center" width="25px" src="https://pics.freeicons.io/uploads/icons/png/9364660901536063363-512.png"/>](#) &nbsp; Gamer `#pcmar`
+[<img align="center" width="25px" src="https://pics.freeicons.io/uploads/icons/png/9364660901536063363-512.png"/>](#) &nbsp; Gamer `#pcmr`
 
 <br>
 
