@@ -1,4 +1,5 @@
-[<img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rishim1408&show_icons=true&theme=vue&hide=prs,issues,contribs"/>](https://github.com/RishiM1408?tab=repositories)
+[<img align="left" title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rishim1408&show_icons=true&theme=vue&hide=prs,issues,contribs"/>
+<img align="center" title="Github Top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=RishiM1408&show_icons=true&locale=en&layout=compact"/>](https://github.com/RishiM1408?tab=repositories)
 
 # `Hi! I'M RISHI MOHAN!`
 
@@ -198,7 +199,6 @@ width="36"
 <br>
 
 ---
-
 
 ## [<img align="center" title="Social Media" alt="Social Media" width="32px" src="https://cdn-icons-png.flaticon.com/512/2065/2065157.png" />](#)&nbsp;Connect with me:
 
