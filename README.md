@@ -1,5 +1,4 @@
-[<img align="left" title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rishim1408&show_icons=true&theme=vue&hide=prs,issues,contribs"/>
-<img title="Github Top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=RishiM1408&show_icons=true&locale=en&layout=compact"/>](https://github.com/RishiM1408?tab=repositories)
+[<img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RishiM1408&show_icons=true&theme=vue&hide=prs,issues,contribs"/>](https://github.com/RishiM1408?tab=repositories)
 
 # 'Hi! I'M RISHI!'
 
