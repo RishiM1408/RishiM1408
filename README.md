@@ -207,8 +207,11 @@ width="36"
 &nbsp;&nbsp;&nbsp;
 [<img align="center" title="Instagram2 | Rishi Mohan" alt="rishi1408 | Instagram" height="28px" src="https://img.shields.io/badge/instagram2-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram2]
 &nbsp;&nbsp;&nbsp;
+[<img align="center" title="Twitter | Rishi Mohan" alt="rishi1408 | Twitter" height="28px" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+&nbsp;&nbsp;&nbsp;
 
 
 [linkedin]: https://www.linkedin.com/in/rishim1408/
 [instagram]: https://www.instagram.com/flowofoptics/
 [instagram2]: https://www.instagram.com/definitelymayberishi/
+[twitter]: https://www.twitter.com/rishia1408/
