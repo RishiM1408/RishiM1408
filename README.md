@@ -200,7 +200,7 @@ width="36"
 
 ---
 
-## [<img align="center" title="Social Media" alt="Social Media" width="32px" src="https://cdn-icons-png.flaticon.com/512/2065/2065157.png" />](#)&nbsp;Connect with me:
+## [<img align="center" title="Social Media" alt="Social Media" width="32px" src="https://cdn-icons-png.flaticon.com/512/2065/2065157.png" />](#)&nbsp;Let's Connect!:
 
 [<img align="center" title="LinkedIn | Rishi Mohan" alt="rishi1408 | LinkedIn" height="28px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 &nbsp;&nbsp;&nbsp;
