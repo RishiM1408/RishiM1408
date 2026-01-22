@@ -66,8 +66,6 @@
 
 <br/>
 
-## 🐍 Contributions
-
 <div align="center">
   <img src="https://github.com/RishiM1408/RishiM1408/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
@@ -81,7 +79,7 @@
   <a href="https://twitter.com/rishia1408/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-   <a href="https://www.instagram.com/flowofoptics/">
+   <a href="https://www.instagram.com/definitelymayberishi/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
