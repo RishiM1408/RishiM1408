@@ -60,6 +60,9 @@
 ## 🤖 AI & Emerging Tech
 
 ![Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=google-gemini&logoColor=white)
+![Cloud Vision](https://img.shields.io/badge/Cloud_Vision_OCR-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-blue?style=flat)
 ![Python AI](https://img.shields.io/badge/Python_AI-Ecosystem-3776AB?style=flat&logo=python&logoColor=white)
