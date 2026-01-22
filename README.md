@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RishiM1408&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=RishiM1408&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiM1408&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
