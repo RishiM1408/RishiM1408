@@ -20,38 +20,49 @@
 
 <br/>
 
-## 🚀 Featured Projects
+## ⚡ Technical Mastery
 
-|                                    Project                                     | Description                                                                |         Tech Stack         |
-| :----------------------------------------------------------------------------: | :------------------------------------------------------------------------- | :------------------------: |
-|     **[Low Level Design](https://github.com/RishiM1408/low-level-design)**     | Comprehensive collection of Low Level Design (LLD) problems and solutions. | Java, Design Patterns, UML |
-|     **[DSA Crash Course](https://github.com/RishiM1408/dsa-crash-course)**     | A complete guide to Data Structures and Algorithms with problem solutions. |  Python, Java, Algorithms  |
-| **[Java Design Patterns](https://github.com/RishiM1408/design-patterns-java)** | Implementation of common software design patterns in Java.                 |         Java, OOP          |
+- 🏎️ **High-Concurrency Systems** (Java 21 Virtual Threads, Multithreading)
+- 🕸️ **Graph-Based Analytics** (Neo4j, GraphDB, Entity Linking)
+- 📹 **Real-Time Communication** (WebRTC, Web Sockets, AWS Chime)
+- ☁️ **Cloud-Native Architecture** (Microservices, ECS, Lambda, Serverless)
 
 <br/>
 
-## 🛠 Skills & Technologies
+## 🛠 Tech Stack Mastery
 
-<div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <br/>
-  <!-- Editors -->
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
+|      Category      | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| :----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   **Languages**    | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)                                                                                                                                                                                                          |
+|    **Backend**     | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)                                                                                                                                                                                   |
+|   **Databases**    | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)                                                                                             |
+|    **Concepts**    | ![HLD](https://img.shields.io/badge/System_Design-HLD-FF6F00) ![LLD](https://img.shields.io/badge/System_Design-LLD-FF6F00) ![Design Patterns](https://img.shields.io/badge/Pattern-Design_Patterns-blue) ![SOLID](https://img.shields.io/badge/Principle-SOLID-green)                                                                                                                                                                                                                                                                                                                           |
+|    **Hardware**    | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                   |
+
+<br/>
+
+## ☁️ Cloud Mastery: AWS vs GCP
+
+|     Service Category     | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| :----------------------: | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
+|       **Compute**        | EC2, Lambda, ECS, Fargate, Batch                                                                    | Compute Engine, Cloud Functions, Cloud Run, GKE                                                                |
+|       **Database**       | RDS, DynamoDB, ElastiCache, DocumentDB                                                              | Cloud SQL, Firestore, Memorystore                                                                              |
+|       **Storage**        | S3, EBS, Glacier, EFS                                                                               | Cloud Storage, Persistent Disk, Nearline                                                                       |
+|      **Networking**      | VPC, CloudFront, API Gateway, ELB                                                                   | VPC, Cloud CDN, API Gateway, Load Balancing                                                                    |
+| **Big Data & Analytics** | Athena, Glue, Kinesis, Redshift                                                                     | BigQuery, Dataflow, Pub/Sub, Bigtable                                                                          |
+|       **AI & ML**        | Bedrock, Rekognition, SageMaker                                                                     | Vertex AI, Vision API, AutoML                                                                                  |
+| **Security & Identity**  | IAM, WAF, Secrets Manager                                                                           | Cloud IAM, Cloud Armor, Secret Manager                                                                         |
+|       **DevTools**       | CodePipeline, CodeBuild, CodeCommit                                                                 | Cloud Build, Source Repositories                                                                               |
+
+<br/>
+
+## 🤖 AI & Emerging Tech
+
+![Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-blue?style=flat)
+![Python AI](https://img.shields.io/badge/Python_AI-Ecosystem-3776AB?style=flat&logo=python&logoColor=white)
 
 <br/>
 
