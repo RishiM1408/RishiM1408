@@ -66,7 +66,7 @@
 ![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-blue?style=flat&logo=python&logoColor=white)
 ![PyAudio](https://img.shields.io/badge/PyAudio-Audio_Processing-3776AB?style=flat&logo=python&logoColor=white)
