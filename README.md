@@ -65,7 +65,7 @@
 ![Cloud Vision](https://img.shields.io/badge/Cloud_Vision_OCR-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-blue?style=flat)
+
 ![Python AI](https://img.shields.io/badge/Python_AI-Ecosystem-3776AB?style=flat&logo=python&logoColor=white)
 
 <br/>
