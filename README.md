@@ -64,7 +64,7 @@
 | **[Redis-like KV Store](https://github.com/RishiM1408/redisLikeKvStore)**                           | High-performance, distributed key-value store with HAProxy load balancing.  | Java, Netty, Docker   |
 | **[The Database Guide](https://github.com/RishiM1408/the-database-guide)**                          | Comprehensive database decision matrix and architectural case studies.      | Documentation, Docker |
 | **[Low-Level Design](https://github.com/RishiM1408/low-level-design)**                              | Ultimate roadmap and solutions for Object-Oriented Design & Machine Coding. | Java, Mermaid.js      |
-| **[Java Design Patterns](https://github.com/RishiM1408/javaDesignPatterns)**                        | Masterclass in GoF patterns using modern Java 17+ features.                 | Java 17+              |
+| **[Java Design Patterns](https://github.com/RishiM1408/design-patterns-java)**                      | Masterclass in GoF patterns using modern Java 17+ features.                 | Java 17+              |
 | **[Modern Java Functional Programming](https://github.com/RishiM1408/functional-programming-java)** | Deep-dive into functional programming evolution from Java 8 to 21.          | Java 21, Streams      |
 | **[DSA Crash Course](https://github.com/RishiM1408/dsaCrashCourse)**                                | High-intensity data structures and algorithms guide for SDE interviews.     | Java, Algorithms      |
 
