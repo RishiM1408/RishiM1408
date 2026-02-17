@@ -59,13 +59,21 @@
 
 ## 🚀 Projects
 
+### 🏗️ Implementation (Production-Grade Systems)
+
+| Project                                                                                     | Description                                                                           | Stack                   |
+| :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------ | :---------------------- |
+| **[Axiom-21](https://github.com/RishiM1408/Axiom-21-Modern-Java-Event-Driven-Rule-Engine)** | Elite Event-Driven Rule Engine using **Java 21**, **Kafka Streams**, and **RocksDB**. | Java 21, Kafka, RocksDB |
+| **[Redis-like KV Store](https://github.com/RishiM1408/redisLikeKvStore)**                   | High-performance, distributed key-value store with HAProxy load balancing.            | Java, Netty, Docker     |
+
+### 📚 Educational (Masterclass & Guides)
+
 | Project                                                                                             | Description                                                                 | Stack                 |
 | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :-------------------- |
-| **[Redis-like KV Store](https://github.com/RishiM1408/redisLikeKvStore)**                           | High-performance, distributed key-value store with HAProxy load balancing.  | Java, Netty, Docker   |
-| **[The Database Guide](https://github.com/RishiM1408/the-database-guide)**                          | Comprehensive database decision matrix and architectural case studies.      | Documentation, Docker |
+| **[Modern Java Functional Programming](https://github.com/RishiM1408/functional-programming-java)** | Deep-dive into functional programming evolution from **Java 8 to 21**.      | Java 21, Streams      |
+| **[Java Design Patterns](https://github.com/RishiM1408/design-patterns-java)**                      | Masterclass in GoF patterns using modern **Java 17+** features.             | Java 17+              |
 | **[Low-Level Design](https://github.com/RishiM1408/low-level-design)**                              | Ultimate roadmap and solutions for Object-Oriented Design & Machine Coding. | Java, Mermaid.js      |
-| **[Java Design Patterns](https://github.com/RishiM1408/design-patterns-java)**                      | Masterclass in GoF patterns using modern Java 17+ features.                 | Java 17+              |
-| **[Modern Java Functional Programming](https://github.com/RishiM1408/functional-programming-java)** | Deep-dive into functional programming evolution from Java 8 to 21.          | Java 21, Streams      |
+| **[The Database Guide](https://github.com/RishiM1408/the-database-guide)**                          | Comprehensive database decision matrix and architectural case studies.      | Documentation, Docker |
 | **[DSA Crash Course](https://github.com/RishiM1408/dsaCrashCourse)**                                | High-intensity data structures and algorithms guide for SDE interviews.     | Java, Algorithms      |
 
 <br/>
