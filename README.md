@@ -59,6 +59,12 @@
 
 ## 🚀 Projects
 
+### 🔬 Research & DeepTech
+
+| Project                                                                                                 | Description                                                                                          | Stack                  |
+| :------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------- | :--------------------- |
+| **[SynapseVM](https://github.com/RishiM1408/SynapseVM-Distributed-Saliency-Aware-KV-Cache-Management)** | Distributed Saliency-Aware KV-Cache Management for LLMs (**H2O Eviction**, **Async DMA**, **INT4**). | C++20, CUDA 13, Triton |
+
 ### 🏗️ Implementation (Production-Grade Systems)
 
 | Project                                                                                     | Description                                                                           | Stack                   |
