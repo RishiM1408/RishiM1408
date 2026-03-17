@@ -7,6 +7,21 @@
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/rishim1408/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/rishia1408/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/definitelymayberishi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:contact@rishimohan.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
   <h3>Visitor Count</h3>
   <img src="https://komarev.com/ghpvc/?username=RishiM1408&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
@@ -102,18 +117,4 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/RishiM1408/RishiM1408/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<br/>
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/rishim1408/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/rishia1408/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-   <a href="https://www.instagram.com/definitelymayberishi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </div>
