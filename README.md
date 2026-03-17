@@ -100,9 +100,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RishiM1408/RishiM1408/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+
 
 <br/>
 
