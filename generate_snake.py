@@ -89,9 +89,9 @@ def fetch_contributions(username: str, token: str) -> list[dict]:
 
 def build_snake_path(cells: list[dict]) -> list[dict]:
     """
-    Build an ordered snake path through non-zero cells.
+    Build an ordered snake path through non-zero cells only.
     Strategy: boustrophedon (zigzag) column traversal — same as a real
-    contribution grid snake. Eat cells in calendar order.
+    contribution grid snake. Only eat cells with actual contributions.
     """
     grid: dict[tuple[int, int], dict] = {(c["col"], c["row"]): c for c in cells}
     cols = sorted(set(c["col"] for c in cells))
@@ -101,7 +101,7 @@ def build_snake_path(cells: list[dict]) -> list[dict]:
         rows = range(7) if col % 2 == 0 else range(6, -1, -1)
         for row in rows:
             cell = grid.get((col, row))
-            if cell:
+            if cell and cell["count"] > 0:  # skip empty days
                 path.append(cell)
     return path
 
