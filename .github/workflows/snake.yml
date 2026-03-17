@@ -8,44 +8,32 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
 
-  # run on every push on the main branch
+  # run on every push on the master branch
   push:
     branches:
       - main
+      - test
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          python-version: "3.11"
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Check GH_TOKEN secret is configured
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          if [ -z "$GH_TOKEN" ]; then
-            echo "::error::GH_TOKEN secret is not set. Add a GitHub Personal Access Token with 'read:user' scope as a repo secret named GH_TOKEN."
-            echo "Go to: Settings → Secrets and variables → Actions → New repository secret"
-            exit 1
-          fi
-
-      - name: Generate custom contribution snake SVG
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GITHUB_USER: ${{ github.repository_owner }}
-        run: python generate_snake.py --user $GITHUB_USER --token $GH_TOKEN --out dist/github-contribution-grid-snake.svg
-
-      - name: Push snake SVG to output branch
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
