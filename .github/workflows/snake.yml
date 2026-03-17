@@ -29,6 +29,16 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Check GH_TOKEN secret is configured
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::GH_TOKEN secret is not set. Add a GitHub Personal Access Token with 'read:user' scope as a repo secret named GH_TOKEN."
+            echo "Go to: Settings → Secrets and variables → Actions → New repository secret"
+            exit 1
+          fi
+
       - name: Generate custom contribution snake SVG
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
