@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact@rishimohan.in" target="_blank">
-  <img src="https://img.shields.io/badge/Email-contact@rishimohan.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+    <img src="https://img.shields.io/badge/Email-contact@rishimohan.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <div align="center">
@@ -115,6 +115,8 @@
 
 <br/>
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RishiM1408/RishiM1408/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 <br/>
